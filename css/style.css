@@ -1,0 +1,35 @@
+body {
+    width: 100%;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    width: 350px;
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+}
+
+.content {
+    width: 350px;
+    margin: auto;
+}
+
+.content textarea {
+    width: 350px;
+    height: 250px;
+}
+
+.buttons {
+    width: 225px;
+    margin: auto;
+}
+
+.buttons button {
+    width: 100px;
+    height: 30px;
+    margin: 20px 5px;
+    font-size: 15px;
+    font-weight: bold;
+}
